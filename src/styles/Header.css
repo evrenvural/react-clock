@@ -1,0 +1,20 @@
+nav{
+    height: 100px;
+    background-color: #343a40;
+}
+
+#content {
+    margin: auto;
+}
+
+.fa-clock{
+    float: left;
+    color: white;
+}
+
+h1{
+    float: left;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
