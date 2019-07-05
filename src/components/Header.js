@@ -9,7 +9,7 @@ export default class Header extends Component {
                     <div className="container">
                         <div id="content">
                             <i className="far fa-clock fa-4x" />
-                            <h1>React Clock</h1>
+                            <h1>{this.props.title}</h1>
                         </div>
                     </div>
                 </nav>
