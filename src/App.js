@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header title = "React Clock"/>
-      <Clock id="clock"/>
+      <Clock />
     </div>
   );
 }
